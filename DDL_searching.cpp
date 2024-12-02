@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-
+//A code for DSA lovers.
 struct node{
     int data;
     node* next;
